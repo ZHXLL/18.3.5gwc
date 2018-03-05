@@ -1,0 +1,26 @@
+.spy{
+	width:500px;
+	height:300px;
+	background:#abcdef;
+}
+.spy>ul{
+	padding: 0;
+}
+.spy>ul>li{
+	margin: 10px 0;
+	list-style:none;
+	width: 500px;
+	height:30px;
+	background: yellow;
+}
+.spy>ul>li>p{
+	text-align: center;
+	display: inline-block;
+	margin:0;
+	float: left;
+	margin-right:50px; 
+	width: 100px;
+}
+.spybtn{
+	float: right;
+}

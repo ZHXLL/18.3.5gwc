@@ -1,0 +1,9 @@
+action：专门写行为动作的标识或者叫做常量
+reducer：专门写逻辑数据处理的文件夹
+store：专门写管理整个项目的文件夹
+client(可以自定义名称)：写具体的开发代码的地方
+
+index.html  是项目的入口文件，可以去public下面的manifest.json文件里面去修改路径
+
+index.js文件是项目的主要入口文件 
+registerServiceWorker.js是服务器的使用配置
